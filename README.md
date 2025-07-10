@@ -1,6 +1,10 @@
 ## HELLO EVERYONE IM ABDULLAH KARIM PANGAIRBUAN 👋
 
-![ABDULLAH KARIM PANGARIBUAN](pin.gif)
+![ABDULLAH KARIM PANGARIBUAN](img/github-header-image.png)
+
+<p align="center">
+  <img src="pin.gif" alt="Animasi sapaan oleh Abdullah Karim Pangaribuan">
+</p>
 <!--
 **KarimPangaribuan/KarimPangaribuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
