@@ -1,6 +1,6 @@
 ## HELLO EVERYONE IM ABDULLAH KARIM PANGAIRBUAN 👋
 
-![ABDULLAH KARIM PANGARIBUAN](github-header-image.png)
+<img src="github-header-image.png" alt="Header Profil" width="100%">
 
 <p align="center">
   <img src="pin.gif" alt="Animasi sapaan oleh Abdullah Karim Pangaribuan">
