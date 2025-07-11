@@ -1,28 +1,28 @@
-name: Generate Snake Animation
+name: Generate and Commit Snake Animation
 
 on:
+  # Dijalankan otomatis
   schedule:
     - cron: "0 */6 * * *"
+  # Bisa dijalankan manual
   workflow_dispatch:
 
 jobs:
   build:
-    # Memberikan izin kepada Action untuk menulis ke repositori
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      # Langkah 1: Ambil kode dari repo
+      - uses: actions/checkout@v3
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      # Langkah 2: Buat file animasi ular di dalam folder "dist"
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist/github-snake.svg
+
+      # Langkah 3 : Simpan semua file di folder "dist" ke dalam repositori
+      - name: Push snake animation to the repository
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: generate snake animation"
+          file_pattern: dist/*.svg
