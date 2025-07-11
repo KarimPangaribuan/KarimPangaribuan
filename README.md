@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KarimPangaribuan/KarimPangaribuan/dist/github-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/KarimPangaribuan/KarimPangaribuan/main/dist/github-snake.svg" alt="Snake animation">
 </p>
 <!--
 **KarimPangaribuan/KarimPangaribuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
