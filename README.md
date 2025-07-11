@@ -7,8 +7,30 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KarimPangaribuan/KarimPangaribuan/main/dist/github-snake.svg" alt="Snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarimPangaribuan/KarimPangaribuan/main/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KarimPangaribuan/KarimPangaribuan/main/dist/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/KarimPangaribuan/KarimPangaribuan/main/dist/github-snake.svg" />
+  </picture>
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/KarimPangaribuan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarimPangaribuan&show_icons=true&locale=id&theme=radical&rank_icon=github" alt="KarimPangaribuan's GitHub stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/KarimPangaribuan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarimPangaribuan&langs_count=8&layout=compact&locale=id&theme=radical" alt="KarimPangaribuan's top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,go,docker,gcp,aws,postgres,mongodb&perline=7" />
+  </a>
+</p>
+
 <!--
 **KarimPangaribuan/KarimPangaribuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
