@@ -3,7 +3,7 @@
 <img src="github-header-image.png" alt="Header Profil" width="100%">
 
 <p align="center">
-  <img src="pin.gif" alt="Animasi sapaan oleh Abdullah Karim Pangaribuan">
+  <img src="key.gif" alt="Animasi smengetik">
 </p>
 
 <p align="center">
