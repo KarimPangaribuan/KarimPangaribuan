@@ -1,6 +1,7 @@
-## HELLO EVERYONE IM ABDULLAH KARIM PANGAIRBUAN 👋
-
-<img src="github-header-image.png" alt="Header Profil" width="100%">
+<h1 align="left">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&duration=4000&pause=1000&color=00FF00&width=435&lines=Hello+%2C+IM+KARIM+PANGARIBUAN+.+.+.+;Everyone+wears+a+mask+.+.+.;I+just+chose+to+create+my+own++.+.+." alt="Typing SVG" /></a>
+</h1>
 
 <p align="center">
   <img src="key.gif" alt="Animasi smengetik">
