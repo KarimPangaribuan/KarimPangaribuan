@@ -1,6 +1,6 @@
 <h1 align="left">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&duration=4000&pause=1000&color=00FF00&width=435&lines=Hello+%2C+IM+KARIM+PANGARIBUAN+.+.+.+;Everyone+wears+a+mask+.+.+.;I+just+chose+to+create+my+own++.+.+." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&duration=4000&pause=1000&color=00FF00&width=435&lines=Hello+%2C+IM+KARIM+PANGARIBUAN+.+.+.+;Call+Me+for+Collaboration+.+.+.;+You+can+reach me+via+the+links+below++.+.+." alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -34,15 +34,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/KarimPangaribuan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarimPangaribuan&show_icons=true&locale=id&theme=radical&rank_icon=github" alt="KarimPangaribuan's GitHub stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/KarimPangaribuan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarimPangaribuan&langs_count=8&layout=compact&locale=id&theme=radical" alt="KarimPangaribuan's top languages" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
